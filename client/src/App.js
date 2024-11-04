@@ -1,10 +1,10 @@
 /** @format */
 
 import './index.css';
-import Login from './Screens/loginScreen';
+import LoginPage from './Screens/loginScreen';
 
 function App() {
-  return <Login />;
+  return <LoginPage />;
 }
 
 export default App;
